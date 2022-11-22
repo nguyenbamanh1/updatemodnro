@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.1",
-  "noi dung" : "Không có gì đặc biệt cả"
+  "version" : "1.0.2",
+  "noi dung" : "thêm chức năng akok\nsửa tốc độ thông báo\n thêm chức năng ashnm\nChúc bạn chơi game vui vẻ"
 }
