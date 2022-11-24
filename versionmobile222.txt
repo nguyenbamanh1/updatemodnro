@@ -1,4 +1,4 @@
 {
-  "version" : "1.0.2",
-  "noi dung" : "thêm chức năng akok\nsửa tốc độ thông báo\n thêm chức năng ashnm\nChúc bạn chơi game vui vẻ\nTruy cập \"https://www.manhhdc.online/\" để tải nhé"
+  "version" : "1.0.3",
+  "noi dung" : "-sửa lỗi thái dương hạ san\n-thêm chức năng akok\n-sửa tốc độ thông báo\n-thêm chức năng ashnm\nChúc bạn chơi game vui vẻ\nTruy cập \"https://www.manhhdc.online/\" để tải nhé"
 }
